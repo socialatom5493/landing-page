@@ -24,6 +24,36 @@ body {
   font-weight: 900;
 }
 
+.one {
+  display: flex;
+  height: 400px;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+  flex: 1;
+}
+
+.text-title {
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.left {
+  color: #e5e7eb;
+  width: 500px;
+}
+
+.image {
+  height: 200px;
+  width: 400px;
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 ul {
   display: flex;
   list-style: none;
